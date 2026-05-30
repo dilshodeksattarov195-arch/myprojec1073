@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "configselete",
+        "uuid": 2102007,
+        "checksum": "3fzbkn"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
